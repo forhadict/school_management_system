@@ -46,7 +46,7 @@
         -View Library
         
     - Parent Panel
-        a>View all students
+        *View all students
         -Pay for student invoice
         -Get study materials / files from teacher
         -Get payment invoice, pay online
