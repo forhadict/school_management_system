@@ -2,17 +2,16 @@
 
 ## Features:
 ### Admin panel
-   - [x] Finish my changes
-        Managing User accounts (student, teacher, parent, human resources, hostel manager, accountant, librarian, admin)
-        Managing classes, subjects
-        Managing exam marks
-        Managing students’ attendance
-        Managing accounting, income and expenses
-        Managing school events
-        Managing Teachers
-        Managing Librarian
-        Managing Accountant
-        Manage Circular
+   - [x] Managing User accounts (student, teacher, parent, human resources, hostel manager, accountant, librarian, admin)
+   - [x] Managing classes, subjects
+   - [x] Managing exam marks
+   - [x] Managing students’ attendance
+   - [x] Managing accounting, income and expenses
+   - [x] Managing school events
+   - [x] Managing Teachers
+   - [x] Managing Librarian
+   - [x] Managing Accountant
+   - [x] Manage Circular
         
         
    - Student Panel
