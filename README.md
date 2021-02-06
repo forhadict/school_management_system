@@ -92,27 +92,27 @@
 ## Project View
 
 ### Login Page
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/login.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/login.PNG?raw=true)
 ### Admin Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/admindashboard1.PNG?raw=true)
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/admindashboard2.PNG?raw=true)
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/admindashboard3.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/admindashboard1.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/admindashboard2.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/admindashboard3.PNG?raw=true)
 ### Student Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/studentdashboard1.PNG?raw=true)
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/studentdashboard2.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/studentdashboard1.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/studentdashboard2.PNG?raw=true)
 ### Teacher Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/teacherdashboard1.PNG?raw=true)
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/teacherdashboard2.PNG?raw=true)
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/teacherdashboard3.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/teacherdashboard1.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/teacherdashboard2.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/teacherdashboard3.PNG?raw=true)
 ### Parent Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/parentdashboard1.PNG?raw=true)
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/parentdashboard2.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/parentdashboard1.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/parentdashboard2.PNG?raw=true
 ### HRM Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/hrmdashboard.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/hrmdashboard.PNG?raw=true
 ### Hostel Manager Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/hosteldashboard.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/hosteldashboard.PNG?raw=true
 ### Accountant Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/accountdashboard.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/accountdashboard.PNG?raw=true
 ### Librarian Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/librariandashboard.PNG?raw=true
-   ![alt text](https://github.com/forhadict/school_management_ystem/blob/main/school_images/librariandashboard2.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/librariandashboard.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/librariandashboard2.PNG?raw=true
