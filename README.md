@@ -1,29 +1,18 @@
 # School Management System
 
 ## Features:
-   - Admin panel:
-       a> Managing User accounts (student, teacher, parent, human resources, hostel manager, accountant, librarian, admin)
-        a >Managing classes, subjects
-        a> Managing exam marks
-        a> Managing students’ attendance
-        a> Managing accounting, income and expenses
-        a> Managing school events
-        a> Managing Teachers
-        a> Managing Librarian
-        a> Managing Accountant
-        a> Manage Circular
-        a> Managing Parents
-        a> Managing Alumni
-        a> Managing Academic Syllabus
-        a> Managing School Session
-        a> Attendance
-        a> Reports
-        a> Management relationships between different type of users.
-        a> Section Management.
-        a> Assign club
-        a> Generate report card
-        a> Managing Hostel Manager
-        a> Managing library, dormitory, transport
+   - Admin panel
+        Managing User accounts (student, teacher, parent, human resources, hostel manager, accountant, librarian, admin)
+        Managing classes, subjects
+        Managing exam marks
+        Managing students’ attendance
+        Managing accounting, income and expenses
+        Managing school events
+        Managing Teachers
+        Managing Librarian
+        Managing Accountant
+        Manage Circular
+        
         
    - Student Panel
         -Get class routine
@@ -34,7 +23,6 @@
         -Request Book
         -Social activity
         -Club activity
-
         
    - Teacher Panel
         -Managing exam marks (according to class managed)
@@ -46,7 +34,7 @@
         -View Library
         
     - Parent Panel
-        *View all students
+        -View all students
         -Pay for student invoice
         -Get study materials / files from teacher
         -Get payment invoice, pay online
