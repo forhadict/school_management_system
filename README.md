@@ -1,7 +1,8 @@
 # School Management System
 
 ## Features:
-   - Admin panel
+### Admin panel
+   - [x] Finish my changes
         Managing User accounts (student, teacher, parent, human resources, hostel manager, accountant, librarian, admin)
         Managing classes, subjects
         Managing exam marks
