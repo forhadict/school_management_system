@@ -1,29 +1,29 @@
-# school_management_system
+# School Management System
 
 ## Features:
    - Admin panel
-        -Managing User accounts (student, teacher, parent, human resources, hostel manager, accountant, librarian, admin)
-        -Managing classes, subjects
-        -Managing exam marks
-        -Managing students’ attendance
-        -Managing accounting, income and expenses
-        -Managing school events
-        -Managing Teachers
-        -Managing Librarian
-        -Managing Accountant
-        -Manage Circular
-        -Managing Parents
-        -Managing Alumni
-        -Managing Academic Syllabus
-        -Managing School Session
-        -Attendance
-        -Reports
-        -Management relationships between different type of users.
-        -Section Management.
-        -Assign club
-        -Generate report card
-        -Managing Hostel Manager
-        -Managing library, dormitory, transport
+        a> Managing User accounts (student, teacher, parent, human resources, hostel manager, accountant, librarian, admin)
+        a >Managing classes, subjects
+        a> Managing exam marks
+        a> Managing students’ attendance
+        a> Managing accounting, income and expenses
+        a> Managing school events
+        a> Managing Teachers
+        a> Managing Librarian
+        a> Managing Accountant
+        a> Manage Circular
+        a> Managing Parents
+        a> Managing Alumni
+        a> Managing Academic Syllabus
+        a> Managing School Session
+        a> Attendance
+        a> Reports
+        a> Management relationships between different type of users.
+        a> Section Management.
+        a> Assign club
+        a> Generate report card
+        a> Managing Hostel Manager
+        a> Managing library, dormitory, transport
         
    - Student Panel
         -Get class routine
@@ -106,13 +106,13 @@
    ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/teacherdashboard3.PNG?raw=true)
 ### Parent Dashboard Page
    ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/parentdashboard1.PNG?raw=true)
-   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/parentdashboard2.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/parentdashboard2.PNG?raw=true)
 ### HRM Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/hrmdashboard.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/hrmdashboard.PNG?raw=true)
 ### Hostel Manager Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/hosteldashboard.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/hosteldashboard.PNG?raw=true)
 ### Accountant Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/accountantdashboard.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/accountantdashboard.PNG?raw=true)
 ### Librarian Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/librariandashboard.PNG?raw=true
-   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/librariandashboard2.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/librariandashboard.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/librariandashboard2.PNG?raw=true)
