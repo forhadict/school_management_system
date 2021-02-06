@@ -112,7 +112,7 @@
 ### Hostel Manager Dashboard Page
    ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/hosteldashboard.PNG?raw=true
 ### Accountant Dashboard Page
-   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/accountdashboard.PNG?raw=true
+   ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/accountantdashboard.PNG?raw=true
 ### Librarian Dashboard Page
    ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/librariandashboard.PNG?raw=true
    ![alt text](https://github.com/forhadict/school_management_system/blob/main/school_images/librariandashboard2.PNG?raw=true
